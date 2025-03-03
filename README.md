@@ -1,3 +1,5 @@
+DashBoard Link: https://app.powerbi.com/groups/me/reports/f1e11b52-a51f-414f-b2df-ae8524f8d27c/d82e90d5e653d2850cab?experience=power-bi
+
 📌 Project Overview
 This Power BI project focuses on Sales Insights using Data Analytics. The dashboard provides key performance indicators (KPIs) and interactive visualizations to help analyze sales data effectively.
 
